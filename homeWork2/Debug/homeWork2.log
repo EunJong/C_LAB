@@ -1,0 +1,11 @@
+﻿  baduk.c
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(22): warning C4047: '함수' : 'int *'의 간접 참조 수준이 'int [19][19]'과(와) 다릅니다.
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(22): warning C4024: 'printBoard' : 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(27): warning C4047: '함수' : 'int *'의 간접 참조 수준이 'int [19][19]'과(와) 다릅니다.
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(27): warning C4024: 'procComm' : 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(59): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(69): warning C4047: '함수' : 'int *'의 간접 참조 수준이 'int (*)[19]'과(와) 다릅니다.
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(69): warning C4024: 'putStone' : 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(83): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+c:\nhn-next2015(1학기)\a반\과제\4월 2일\송원석\baduk.c(111): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  homeWork2.vcxproj -> C:\NHN-NEXT2015(1학기)\C_LAB\HomeWork\Debug\homeWork2.exe
